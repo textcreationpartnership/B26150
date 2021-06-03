@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jovis 25 die Februarii 1668 annoque Regis Caroli Secundi Angl. &amp;c. vicesimo primo this day Sir Samuel Starling and Sir Joseph Sheldon knights and aldermen, formerly appointed to consider the petition of divers poor women in, and about this city ... selling of fish, for liberty to continue their imployments, free from trouble and prosecution, &amp;c., did deliver to this court a report in writing under their hands, how they find the same, and their opinions, the tenor whereof is as followeth ...</title>
+            <author>City of London (England). Court of Aldermen.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26150</idno><idno type="EEBO-CITATION">24036347</idno>
+  <idno type="VID">205680</idno>
+  <idno type="EEBO-PROQUEST">2240896028</idno>
+  
+            <idno type="STC">Wing L2864K</idno>
+            <idno type="OCLC">24036347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1705:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jovis 25 die Februarii 1668 annoque Regis Caroli Secundi Angl. &amp;c. vicesimo primo this day Sir Samuel Starling and Sir Joseph Sheldon knights and aldermen, formerly appointed to consider the petition of divers poor women in, and about this city ... selling of fish, for liberty to continue their imployments, free from trouble and prosecution, &amp;c., did deliver to this court a report in writing under their hands, how they find the same, and their opinions, the tenor whereof is as followeth ...</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+                  <author>Sheldon, Joseph, Sir.</author>
+                  <author>Starling, Samuel, Sir.</author>
+                  <author>Turner, William, Sir, fl. 1668-1669.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Turner Mayor.</note>
+                  <note>Imperfect: stained and torn, with slight loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fish trade --  Law and legislation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205680:1"/>
+            <pb facs="tcp:205680:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms of London</figDesc>
+               </figure> Turner Mayor.<figure>
+                  <figDesc>arms of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Jovis 25<seg rend="sup">o</seg>
+                     <hi>die</hi> Februarii 1668. <hi>Annoque Regi</hi> CAROLI <hi>Secundi</hi> Angl. &amp;c. <hi>Vicesimo primo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>THis Day Sir <hi>Samuel Starling,</hi> and Sir <hi>Joseph Sheldon</hi> Knights and Aldermen, formerly appointed to consider the Petition of divers poor Women, in, and about this City, (especially of the Parishes of St. <hi>Botolph</hi>'s <hi>Bishops-gate,</hi> and <hi>Aldgate</hi>) selling of <hi>Fish,</hi> for Liberty to continue their Imployments, free from Trouble and Prosecution, <hi>&amp;c.</hi> did deliver into this Court a Report in Writing under their Hands, how they find the same, and their Opinions; the Tenor whereof is as followeth, <hi>viz.</hi>
+               </p>
+            </argument>
+            <head>To the Right Honourable the <hi>Lord Mayor,</hi> and Court of <hi>Aldermen.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to an Order of this Honourable Court of the 23 of <hi>December</hi> last past; We whose Names are subscribed Committees thereby appointed to consider of the Matters contained in the Petition of divers poor Women, in, and about this City, (especially in the Parishes of St. <hi>Botolph</hi>'s <hi>Bishops-gate</hi> and <hi>Aldgate</hi>) Selling of <hi>Fish,</hi> for Liberty and Protection to continue their said Imployment, and means of Livelihood, free from Disturbance, and Actions at Law, which have lately been prosecuted against them, to their great Vexation and Impoverishment; Do humbly certifie, that having for our better Information called to our Assistance, our Deputies, and the Common Council-Men of the Wards of <hi>Portsoaken,</hi> and <hi>Bishops-gate;</hi> And having had also before us some of the Company of <hi>Fishmongers,</hi> as also the <hi>Fisher-Men,</hi> who serve the Markets of this City with <hi>Fish,</hi> and also the Petitioners; and having heard them touching the said Petitioners Complaints; We do find, that the Prosecutions and Trouble occasioned to the Petitioners, have been by the Direction and Order of the Trading <hi>Fishmongers,</hi> (as they themselves confessed) upon the pretence of the Petitioners Ingrossing, and unlawful obtaining into their Hands, the <hi>Fish</hi> brought for the use of this City, when in truth their real meaning thereby, is to weary out, and utterly to discourage the said Petitioners from following their Imployments; that thereby they may wholly get the Trade into their own Hands, and Sell their Fish at unreasonable and excessive Rates, and Prises, to the abuse of His Majesties Subjects; For to Us it is made out, that the <hi>Fishmongers</hi> themselves, as to the Ingrossing of that Victual, and Forestalling of the Market; (not to excuse the Petitioners, who are also gross Offenders,) are as faulty, as the Petitioners, they, either by themselves, or their Servants going in the Night time to <hi>Billings-gate,</hi> and sometimes down the River, to Buy up the <hi>Fish</hi> there brought, or intended to be brought, not at all observing the Hours for opening and beginning the Market; so that by, and many times before these Hours, the <hi>Fish</hi> are wholly bought up by the <hi>Fishmongers;</hi> and the Petitioners, and many Citizens, who would otherwise supply themselves at the first Hand, are herein disappointed. That it doth appear to us, it hath been heretofore allowed to certain Women, being the Wives and Widows of Free-Men, and other Antient Dwellers within this City, and Liberties, to Buy up the middle and worser sort of <hi>Fish,</hi> such as were left, and refused by the <hi>Fishmongers;</hi> provided the same were siseable and wholsom, and to utter, and put to Sale the same again within this City, and Liberties, for the Benefit and Relief of the Poor; And (as the <hi>Fishermen</hi> do aver) unless some such be continued, they cannot possibly utter the great quantities of <hi>Fish</hi> they bring to this City, but must be forced to throw away a great part thereof, to their great discouragement and loss; the middle and worser sort of <hi>Fish,</hi> (although siseable) being the greatest part of what they bring to the Markets of this City. But we do also find that this Liberty of late years has been abused; for that a great number and sort of disorderly, and lewd Women, and Maids, fitter for more Painful and Laborious Service, appropriating to themselves the Benefit of this allowance; do take upon them to Sell, and carry <hi>Fish</hi> up and down the Streets, and Liberties of this City; and under that pretence, do practice many wicked and unlawful things; And many of the Petitioners themselves do take upon them to keep Maid-Servants, and Apprentices to assist them in their Imployments, which they ought not to do.</p>
+            <p>NOW to Redress these, and many other Disorders and Abuses of the like nature, We humb<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer it as our Opinions:</p>
+            <p n="1">I. That as to the Hours for beginning the Market at <hi>Billings-gate;</hi> the same from henceforth be from <hi>Lady-Day</hi> to <hi>Michaelmas,</hi> from Four of the Clock in the Morning; and from <hi>Michaelmas,</hi> to <hi>Lady-Day,</hi> from Five of the Clock in the Morning; and that before those Hours, no person or persons shall presume to Buy or Sell any sorts of <hi>Fish</hi> at the said Market, excepting <hi>Herrings, Sprats, Maycril,</hi> and <hi>Shell-Fish,</hi> upon pain to be proceeded against as Forestallers of the Markets; And that a Bell be hung up at <hi>Billings-gate</hi> as formerly, to be Rung at those Hours, for direction of the People therein.</p>
+            <p n="2">II. That for One Hour, to be accounted from the first opening of that Market, the Women which shall be Licensed, Allowed, and Appointed to Sell, and Cry <hi>Fish</hi> within this City, shall not be permitted or allowed to Buy any of the <hi>Fish</hi> brought to the said Market, except <hi>Herrings, Sprats, Maycril,</hi> and <hi>Shell-fish</hi> in their several Seasons; to the end that the <hi>Fishmongers,</hi> and such Citizens, and other Inhabitants as will, may in that time supply themselves with such quantities as they shall have occasion for; But that from, and after that Hour, (which shall be made known by the Ringing of the Market-Bell a second time,) It shall be lawful for the said Women to Buy off what shall be left by the <hi>Fishmongers,</hi> (provided the same be wholsom and siseable,) such quantities as by the Act or <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-Council after-mentioned, is permitted and allowed unto them.</p>
+            <p n="3">III. That an Act of Common-Council of the 6th of <hi>March</hi> One Thousand Six Hundred and Eleven, in the Ninth Year of the Raign of Our Late Soveraign Lord King JAMES; PEMBERTON MAYOR, made for Regulation and Ordering of such as should be admitted to Sell and Cry <hi>Fish,</hi> and other Victuals within this City, be in all the Articles and Points thereof from and after the First of <hi>March</hi> next, observed and put in Execution; Except</p>
+            <p>
+               <hi>First,</hi> That as to the Hours therein mentioned, for the beginning the said Market; That the same be as before are appointed. And</p>
+            <p>
+               <hi>Secondly,</hi> That whereas that Act Declares, that such Women as shall be allowed to S<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, and Cry <hi>Fish,</hi> and other Victuals within this City, shall be admitted and appointed by the Alderman, Deputy, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Common Council-Men of every such Ward wherein they are allowed; That now besides such admittance, They, if Free-Mens Widows, and the Husbands of such as be Married, be also Licensed by Three Justices of the Peace of this City, according to the Statute 5. <hi>Edw.</hi> 6. Cap. 14.</p>
+            <p n="4">IV. That such Women as shall be Licensed, Admitted, and allowed, as aforesaid; and do not cry <hi>Fish</hi> up and down the Streets of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s City; shall on the Market-days for <hi>Fish,</hi> Sit, and be placed in the Market-places, at the lower end of the Markets, with their Badges on, to distinguish them; that so at all times the <hi>Fisher-Men,</hi> their Wives, and Servants, who bring <hi>Fish</hi> to serve the Markets of this City, may be placed, and have the preheminence of them in the said Markets. And further, that on the said Market-days for <hi>Fish,</hi> (viz.) <hi>Wednesdays</hi> and <hi>Fridays;</hi> the said Women shall not presume to Stand, Abide, or Remain in any place or Street of this City, and Liberties, to Sell, Utter, and put to Sale, their <hi>Fish.</hi> But that on other days they shall be Allowed and Permitted to Stand, Remain, and Abide for Sale of their <hi>Fish,</hi> in such places of the several Wards for which they are Allowed, as shall be assigned them by the Alderman, Deputy, and the Common-Council-Men of the said Ward.</p>
+            <p n="5">V. That at all times hereafter, the Persons to be Admitted, Licensed, and Appointed, as aforesaid, shall Sell, Utter, and put to Sale no other than such sorts of <hi>Fish,</hi> as shall be wholsome and siseable, upon pain that the party who shall be found to offend herein, shall not only Forfeit such <hi>Fish</hi> so exposed and offered to Sale; but shall have His or Her Badge taken away, and her License from thenceforth to be utterly void, and He or She for ever afterwards made uncapable of following such Imployment, as was granted and permitted unto Him or Her by the said Licence.</p>
+            <p n="6">VI. That the persons to be Admitted, Licensed, and appointed, as aforesaid, shall from time to time, and at all times hereafter, Sell, and offer to Sale their <hi>Fish,</hi> at reasonable and moderate Rates and Prizes, and not by agreement among themselves, or otherwise, presume or offer to Enhance <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or Sell at unjust and excessive Rates their said <hi>Fish,</hi> upon pain to Forfeit such <hi>Fish,</hi> and to undergo such other Punishment as the nature of the offence shall deserve.</p>
+            <p n="7">VII. And lastly, That all and every the Officers Enjoined and Required in, and by the said Act of Common-Council, to see to the Observance and due Execution thereof; shall also take like care to see that all and every the particulars before-mentioned (which are not included in the said Act,) be also duly observed, performed, and effectually executed.</p>
+            <p>All which nevertheless, We humbly submit to the further consideration of this Honourable Court.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>This Fourth of</hi> February, <hi>One Thousand Six Hundred Sixty and Eight.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>SAMƲEL STARLING.</hi>
+                     </item>
+                     <item>
+                        <hi>JOSEPH SHELDON.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
